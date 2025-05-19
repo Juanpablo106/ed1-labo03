@@ -12,7 +12,7 @@ public class E02AutocompleteSystem {
 
         for (int i = 0; i < frases.length; i++) {
             frecuencia.put(frases[i], frecuencias[i]);
-        }
+        } //
     }
 
     public List<String> input(char c) {
